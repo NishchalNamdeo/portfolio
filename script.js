@@ -434,7 +434,7 @@ document.querySelector("#contain6").addEventListener("mouseleave", function () {
 })
 document.getElementById('paixy').addEventListener('click', function () {
   var imageURL = this.src;
-  window.open("https://devdynamow.github.io/obys-agency/", '_blank');
+  window.open("https://nishchalnamdeo.github.io/obys-agency/", '_blank');
 });
 document.getElementById('obys').addEventListener('click', function () {
   var imageURL = this.src; 
